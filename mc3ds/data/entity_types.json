@@ -1,0 +1,345 @@
+{
+  "by_type_id": {
+    "319": "Player",
+    "783": "Villager",
+    "789": "snow_golem",
+    "2849": "Creeper",
+    "2853": "Slime",
+    "2854": "Enderman",
+    "2857": "Ghast",
+    "2858": "magma_cube",
+    "2859": "Blaze",
+    "2861": "Witch",
+    "2869": "ender_dragon",
+    "2870": "Shulker",
+    "2873": "Vindicator",
+    "2920": "evocation_illager",
+    "2921": "Vex",
+    "4874": "Chicken",
+    "4875": "Cow",
+    "4876": "Pig",
+    "4877": "Sheep",
+    "4880": "mooshroom",
+    "4882": "Rabbit",
+    "4892": "polar_bear",
+    "4893": "Llama",
+    "8977": "Squid",
+    "788": "IronGolem",
+    "2848": "Zombie",
+    "2850": "Skeleton",
+    "2851": "Spider",
+    "2852": "PigZombie",
+    "2855": "Silverfish",
+    "2856": "CaveSpider",
+    "2860": "ZombieVillager",
+    "2862": "Stray",
+    "2863": "Husk",
+    "2864": "WitherSkeleton",
+    "2865": "Guardian",
+    "2866": "ElderGuardian",
+    "2868": "Wither",
+    "2871": "Endermite",
+    "4878": "Wolf",
+    "4883": "Bat",
+    "4886": "Ocelot",
+    "4887": "Horse",
+    "4888": "Donkey",
+    "4889": "Mule",
+    "4890": "SkeletonHorse",
+    "4891": "ZombieHorse",
+    "64": "Item",
+    "65": "PrimedTnt",
+    "66": "FallingSand",
+    "69": "XPOrb",
+    "83": "Painting",
+    "80": "Arrow",
+    "81": "Snowball",
+    "82": "ThrownEgg",
+    "87": "ThrownEnderpearl",
+    "70": "EyeOfEnderSignal",
+    "90": "Boat",
+    "84": "Minecart",
+    "98": "MinecartChest",
+    "96": "MinecartHopper",
+    "97": "MinecartTNT",
+    "85": "Fireball"
+  },
+  "by_identifier": {
+    "minecraft:chicken": {
+      "type_id": 4874,
+      "save_name": "Chicken"
+    },
+    "minecraft:cow": {
+      "type_id": 4875,
+      "save_name": "Cow"
+    },
+    "minecraft:pig": {
+      "type_id": 4876,
+      "save_name": "Pig"
+    },
+    "minecraft:sheep": {
+      "type_id": 4877,
+      "save_name": "Sheep"
+    },
+    "minecraft:polar_bear": {
+      "type_id": 4892,
+      "save_name": "polar_bear"
+    },
+    "minecraft:villager": {
+      "type_id": 783,
+      "save_name": "Villager"
+    },
+    "minecraft:mooshroom": {
+      "type_id": 4880,
+      "save_name": "mooshroom"
+    },
+    "minecraft:squid": {
+      "type_id": 8977,
+      "save_name": "Squid"
+    },
+    "minecraft:rabbit": {
+      "type_id": 4882,
+      "save_name": "Rabbit"
+    },
+    "minecraft:snow_golem": {
+      "type_id": 789,
+      "save_name": "snow_golem"
+    },
+    "minecraft:witch": {
+      "type_id": 2861,
+      "save_name": "Witch"
+    },
+    "minecraft:ender_dragon": {
+      "type_id": 2869,
+      "save_name": "ender_dragon"
+    },
+    "minecraft:creeper": {
+      "type_id": 2849,
+      "save_name": "Creeper"
+    },
+    "minecraft:slime": {
+      "type_id": 2853,
+      "save_name": "Slime"
+    },
+    "minecraft:enderman": {
+      "type_id": 2854,
+      "save_name": "Enderman"
+    },
+    "minecraft:ghast": {
+      "type_id": 2857,
+      "save_name": "Ghast"
+    },
+    "minecraft:magma_cube": {
+      "type_id": 2858,
+      "save_name": "magma_cube"
+    },
+    "minecraft:blaze": {
+      "type_id": 2859,
+      "save_name": "Blaze"
+    },
+    "minecraft:shulker": {
+      "type_id": 2870,
+      "save_name": "Shulker"
+    },
+    "minecraft:player": {
+      "type_id": 319,
+      "save_name": "Player"
+    },
+    "minecraft:llama": {
+      "type_id": 4893,
+      "save_name": "Llama"
+    },
+    "minecraft:evocation_illager": {
+      "type_id": 2920,
+      "save_name": "evocation_illager"
+    },
+    "minecraft:vex": {
+      "type_id": 2921,
+      "save_name": "Vex"
+    },
+    "minecraft:vindicator": {
+      "type_id": 2873,
+      "save_name": "Vindicator"
+    },
+    "minecraft:iron_golem": {
+      "type_id": 788,
+      "save_name": "IronGolem"
+    },
+    "minecraft:zombie": {
+      "type_id": 2848,
+      "save_name": "Zombie"
+    },
+    "minecraft:skeleton": {
+      "type_id": 2850,
+      "save_name": "Skeleton"
+    },
+    "minecraft:spider": {
+      "type_id": 2851,
+      "save_name": "Spider"
+    },
+    "minecraft:zombie_pigman": {
+      "type_id": 2852,
+      "save_name": "PigZombie"
+    },
+    "minecraft:zombified_piglin": {
+      "type_id": 2852,
+      "save_name": "PigZombie"
+    },
+    "minecraft:silverfish": {
+      "type_id": 2855,
+      "save_name": "Silverfish"
+    },
+    "minecraft:cave_spider": {
+      "type_id": 2856,
+      "save_name": "CaveSpider"
+    },
+    "minecraft:zombie_villager": {
+      "type_id": 2860,
+      "save_name": "ZombieVillager"
+    },
+    "minecraft:stray": {
+      "type_id": 2862,
+      "save_name": "Stray"
+    },
+    "minecraft:husk": {
+      "type_id": 2863,
+      "save_name": "Husk"
+    },
+    "minecraft:wither_skeleton": {
+      "type_id": 2864,
+      "save_name": "WitherSkeleton"
+    },
+    "minecraft:guardian": {
+      "type_id": 2865,
+      "save_name": "Guardian"
+    },
+    "minecraft:elder_guardian": {
+      "type_id": 2866,
+      "save_name": "ElderGuardian"
+    },
+    "minecraft:wither": {
+      "type_id": 2868,
+      "save_name": "Wither"
+    },
+    "minecraft:endermite": {
+      "type_id": 2871,
+      "save_name": "Endermite"
+    },
+    "minecraft:evoker": {
+      "type_id": 2920,
+      "save_name": "evocation_illager"
+    },
+    "minecraft:wolf": {
+      "type_id": 4878,
+      "save_name": "Wolf"
+    },
+    "minecraft:bat": {
+      "type_id": 4883,
+      "save_name": "Bat"
+    },
+    "minecraft:ocelot": {
+      "type_id": 4886,
+      "save_name": "Ocelot"
+    },
+    "minecraft:cat": {
+      "type_id": 4886,
+      "save_name": "Ocelot"
+    },
+    "minecraft:horse": {
+      "type_id": 4887,
+      "save_name": "Horse"
+    },
+    "minecraft:donkey": {
+      "type_id": 4888,
+      "save_name": "Donkey"
+    },
+    "minecraft:mule": {
+      "type_id": 4889,
+      "save_name": "Mule"
+    },
+    "minecraft:skeleton_horse": {
+      "type_id": 4890,
+      "save_name": "SkeletonHorse"
+    },
+    "minecraft:zombie_horse": {
+      "type_id": 4891,
+      "save_name": "ZombieHorse"
+    },
+    "minecraft:item": {
+      "type_id": 64,
+      "save_name": "Item"
+    },
+    "minecraft:tnt": {
+      "type_id": 65,
+      "save_name": "PrimedTnt"
+    },
+    "minecraft:falling_block": {
+      "type_id": 66,
+      "save_name": "FallingSand"
+    },
+    "minecraft:xp_orb": {
+      "type_id": 69,
+      "save_name": "XPOrb"
+    },
+    "minecraft:experience_orb": {
+      "type_id": 69,
+      "save_name": "XPOrb"
+    },
+    "minecraft:painting": {
+      "type_id": 83,
+      "save_name": "Painting"
+    },
+    "minecraft:arrow": {
+      "type_id": 80,
+      "save_name": "Arrow"
+    },
+    "minecraft:snowball": {
+      "type_id": 81,
+      "save_name": "Snowball"
+    },
+    "minecraft:egg": {
+      "type_id": 82,
+      "save_name": "ThrownEgg"
+    },
+    "minecraft:ender_pearl": {
+      "type_id": 87,
+      "save_name": "ThrownEnderpearl"
+    },
+    "minecraft:eye_of_ender": {
+      "type_id": 70,
+      "save_name": "EyeOfEnderSignal"
+    },
+    "minecraft:boat": {
+      "type_id": 90,
+      "save_name": "Boat"
+    },
+    "minecraft:oak_boat": {
+      "type_id": 90,
+      "save_name": "Boat"
+    },
+    "minecraft:minecart": {
+      "type_id": 84,
+      "save_name": "Minecart"
+    },
+    "minecraft:chest_minecart": {
+      "type_id": 98,
+      "save_name": "MinecartChest"
+    },
+    "minecraft:hopper_minecart": {
+      "type_id": 96,
+      "save_name": "MinecartHopper"
+    },
+    "minecraft:tnt_minecart": {
+      "type_id": 97,
+      "save_name": "MinecartTNT"
+    },
+    "minecraft:furnace_minecart": {
+      "type_id": 85,
+      "save_name": "MinecartFurnace"
+    },
+    "minecraft:fireball": {
+      "type_id": 85,
+      "save_name": "Fireball"
+    }
+  }
+}
